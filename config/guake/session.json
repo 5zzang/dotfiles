@@ -1,0 +1,66 @@
+{
+    "schema_version": 2,
+    "timestamp": 1722171449,
+    "workspace": {
+        "0": [
+            [
+                {
+                    "panes": [
+                        {
+                            "type": "dual_v",
+                            "directory": null
+                        },
+                        {
+                            "type": "term",
+                            "directory": "/home/mike",
+                            "custom_colors": {
+                                "fg_color": null,
+                                "bg_color": null,
+                                "palette": null
+                            }
+                        },
+                        {
+                            "type": "term",
+                            "directory": "/home/mike",
+                            "custom_colors": {
+                                "fg_color": null,
+                                "bg_color": null,
+                                "palette": null
+                            }
+                        }
+                    ],
+                    "label": "mike",
+                    "custom_label_set": false
+                },
+                {
+                    "panes": [
+                        {
+                            "type": "dual_v",
+                            "directory": null
+                        },
+                        {
+                            "type": "term",
+                            "directory": "/home/mike/git/github/linux-dotfiles",
+                            "custom_colors": {
+                                "fg_color": null,
+                                "bg_color": null,
+                                "palette": null
+                            }
+                        },
+                        {
+                            "type": "term",
+                            "directory": "/home/mike",
+                            "custom_colors": {
+                                "fg_color": null,
+                                "bg_color": null,
+                                "palette": null
+                            }
+                        }
+                    ],
+                    "label": "config",
+                    "custom_label_set": false
+                }
+            ]
+        ]
+    }
+}
